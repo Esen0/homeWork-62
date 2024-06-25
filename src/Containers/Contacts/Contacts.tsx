@@ -7,7 +7,7 @@ const Contacts = () => {
             <h2>Phone</h2>
             <a href="tel:996558399784">996558399784</a>
             <h2>Email</h2>
-            <a href="mailto:jannatparfum.com"></a>
+            <a href="mailto:jannatparfum.com">jannatparfum.com</a>
         </div>
     );
   }
